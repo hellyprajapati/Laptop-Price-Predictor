@@ -60,7 +60,8 @@ Laptop_Price_Predictor/
 
 # 📌 Screenshot 
 You can attach a screenshot or GIF of the model in action here:
-https://github.com/user-attachments/assets/cd22a285-b090-48f5-a385-26c8801c7cd9
+
+https://github.com/user-attachments/assets/468767c4-5e9a-43eb-92bd-a94baa434a35
 
 ---
 
